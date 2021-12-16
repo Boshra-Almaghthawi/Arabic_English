@@ -195,14 +195,14 @@ Arbaic - PC keyboard
 
 ## Need translations
 
-- You should be in a breakout room.
-- Down the hall to the left.
-- Sunday
-- Monday
-- Tuesdayday
-- Wednesday
-- Thursday
-- Friday
-- Saturday
-- What can I help you with?
-- Is there anything I can help you with?
+- You should be in a breakout room.      | yajib an takun fi ghurfat aliastirahati.
+- Down the hall to the left.             | asfal alqaeat iilaa alyasar.
+- Sunday                                 | Alahad
+- Monday                                 | Alethneyn
+- Tuesdayday                             | Althulathaa
+- Wednesday                              | Alarbeaa
+- Thursday                               | Alkhames
+- Friday                                 | Aljumaah
+- Saturday                               | Alsbt
+- What can I help you with?              | bimadha yumkinuni musaeadatuka?
+- Is there anything I can help you with? | hal hunak 'ayu shay' yumkinuni musaeadatuk bihi?
